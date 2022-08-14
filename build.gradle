@@ -4,7 +4,7 @@ plugins {
     id 'java'
 }
 
-group 'org.2현2'
+group 'org.2gus2'
 version '1.0-SNAPSHOT'
 
 repositories {
