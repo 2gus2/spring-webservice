@@ -1,4 +1,4 @@
-package com.book.springboot.web.domain;
+package com.book.springboot.domain;
 
 import java.time.LocalDateTime;
 import javax.persistence.EntityListeners;

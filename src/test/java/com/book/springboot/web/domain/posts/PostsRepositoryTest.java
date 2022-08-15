@@ -2,6 +2,8 @@ package com.book.springboot.web.domain.posts;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import com.book.springboot.domain.posts.Posts;
+import com.book.springboot.domain.posts.PostsRepository;
 import java.time.LocalDateTime;
 import java.util.List;
 import org.junit.jupiter.api.AfterEach;

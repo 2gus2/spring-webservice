@@ -1,6 +1,6 @@
-package com.book.springboot.web.domain.posts;
+package com.book.springboot.domain.posts;
 
-import com.book.springboot.web.domain.BaseTimeEntity;
+import com.book.springboot.domain.BaseTimeEntity;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
